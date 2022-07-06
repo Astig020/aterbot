@@ -1,9 +1,9 @@
 {
-    "ip": "Your Server IP",
+    "ip": "astigserverbeta.aternos.me",
     "comment": "Enter Your Server IP Without Port",
-    "port": "Your Server Port",
+    "port": "51708",
     "comment": "Enter Your Server Port Without : OR IP",
-    "name": "Your Bot Name",
+    "name": "AstigTer",
     "comment": "The Bot Will Join With This Name",
     "webserverport": "8080",
     "comment": "The Web Server Will Run in this port",
